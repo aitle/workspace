@@ -1,10 +1,7 @@
 hello push uha
 new dev branch
-<<<<<<< HEAD
-=======
-hahaha
 l
 l
 l
 l
->>>>>>> dev
+
