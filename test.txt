@@ -1,6 +1,10 @@
 hello push uha
 new dev branch
-121212
-modifyle
+<<<<<<< HEAD
+=======
 hahaha
-
+l
+l
+l
+l
+>>>>>>> dev
